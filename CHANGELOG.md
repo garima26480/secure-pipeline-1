@@ -1,3 +1,8 @@
 # Changelog
-## Unreleased
-- Initial secure Gitflow practical.
+
+## 1.0.1
+- Add a regression test for rejecting zero quantity.
+
+## 1.0.0
+- Initial secure Gitflow release.
+- Add tax calculation feature.
